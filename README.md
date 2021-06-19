@@ -29,8 +29,9 @@ There are many fake and misleading news stories related to medical treatments an
 
 https://www.kaggle.com/c/fake-news/data#
 
+**Accuracy around 93%**
 
 ![Screenshot](accuracy.png)
 
-![Screenshot](confusion matrix.png)
+![Screenshot](cm.png)
 
