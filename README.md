@@ -25,9 +25,7 @@ ACC Professors require that you use quality sources of information for your rese
 There are many fake and misleading news stories related to medical treatments and major diseases like cancer or diabetes. Trusting these false stories could lead you to make decisions that may be harmful to your health.
 
 
-## The Data
-
-The data comes from Kaggle, you can download it here:
+## Data Source
 
 https://www.kaggle.com/c/fake-news/data#
 
